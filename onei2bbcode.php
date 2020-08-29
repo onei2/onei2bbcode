@@ -1,6 +1,6 @@
 <?php
     /*
-     *   onei2bbcode - BBCode PHP parser class.
+     *   onei2bbcode - BBCode parser PHP class.
      *   Copyright (C) 2020  Ivan Ivanovic
      *
      *   This program is free software: you can redistribute it and/or modify
